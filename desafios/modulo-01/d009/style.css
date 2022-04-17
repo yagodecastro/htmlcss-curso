@@ -1,0 +1,8 @@
+@charset "UTC-8";
+
+body{
+    background-color: rgb(23, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
